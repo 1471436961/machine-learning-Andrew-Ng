@@ -1,2 +1,2 @@
-# machine-learning-Andrew-Ng-
+# machine-learning-Andrew-Ng
 notes and codes of machine learning
